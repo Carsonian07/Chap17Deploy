@@ -40,7 +40,7 @@ Notes:
 - Supabase tables/columns must match what the app queries (`customers`, `orders`, `order_items`, `products`, `shipments`, optional `order_predictions`).
 
 ### Quick Start Scripts (PowerShell)
-
+###
 From repo root:
 
 ```powershell
@@ -57,7 +57,7 @@ In a second terminal:
 
 while backend is runing you can run: Invoke-RestMethod http://localhost:5000/api/health
 to double check that it is running through supabase. If postgres = using supabase, if sqlite = using local shop.db
-
+###
 
 You can override defaults:
 
