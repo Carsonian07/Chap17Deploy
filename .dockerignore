@@ -1,0 +1,11 @@
+backend/bin/
+backend/obj/
+backend/tools/
+frontend/
+frontend/node_modules/
+frontend/dist/
+.git/
+.dotnet-home/
+*.log
+.env
+.env.*
